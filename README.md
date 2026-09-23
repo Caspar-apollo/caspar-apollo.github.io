@@ -1,5 +1,3 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
-<!doctype html>
 <html lang="de">
 <head>
 <meta charset="utf-8">
@@ -454,7 +452,3 @@ p{margin:0 0 .75rem}
 })();
 </script>
 
-</body>
-</html>
-
-</body></html>
