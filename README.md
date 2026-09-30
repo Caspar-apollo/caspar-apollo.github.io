@@ -165,7 +165,7 @@ p{margin:0 0 .75rem}
     <div class="w-body">
       <p class="lead">Wir bauen Ihr Bad vollständig neu — vom Rückbau über die Abdichtung nach
         DIN 18534 bis zu Fliesen, Wand-WC, Waschtisch und Dusche. Alle Wände und Decken der Wohnung
-        werden gestrichen, Türblätter und Zargen lackiert. Elektro- und Sanitärinstallation prüfen
+        werden gestrichen, Türblätter und Zargen lackiert. Elektroinstallation prüfen
         wir und messen die Anlage nach Norm durch. Boden und Küche bleiben und werden geschützt.</p>
 
       <h2>Räume</h2>
